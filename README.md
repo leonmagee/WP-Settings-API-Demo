@@ -13,4 +13,8 @@ There are two main ways to use the Settings API:
 
 Resources:
 
+Codex: http://codex.wordpress.org/Settings_API
+
+WP Tuts: http://wp.tutsplus.com/tutorials/theme-development/the-complete-guide-to-the-wordpress-settings-api-part-1/
+
 Regular Expressions: http://gskinner.com/RegExr/
